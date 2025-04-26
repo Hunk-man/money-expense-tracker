@@ -1,0 +1,1 @@
+Developed a fully functional Expense Tracker using HTML, Bootstrap, and JavaScript with a dropdown category selector, custom input option, amount and date tracking, delete functionality, and a dynamic pie chart displaying percentages.
