@@ -1,0 +1,21 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.delete-btn {
+  padding: 5px 10px;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background-color: #bb2d3b;
+}
+#expenseChart {
+  max-width: 300px;
+  max-height: 300px;
+  margin: 0 auto; /* center it */
+}
